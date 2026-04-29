@@ -37,3 +37,13 @@ nav li a:hover{
 .dropdown:hover .dropdown-menu{
     display: block;
 }
+
+.item-description {
+    width: 0px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    transition: width .6s;
+    height: 0px;
+}
