@@ -57,7 +57,7 @@ nav li a:hover{
     padding: 12px;
     font-size: 14px;
     display: flex;
-    gap: 10px;
+    gap: 30px;
     align-items: center;
     border-radius: 8px;
     text-align: start;
