@@ -64,4 +64,8 @@ nav li a:hover{
     cursor: pointer;
     background-color: transparent;
 }
+#logout_btn:hover {
+    background-color: #e3e9f7;
+}
+
 
